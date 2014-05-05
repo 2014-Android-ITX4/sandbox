@@ -7,6 +7,5 @@ sandbox
 - アリスさん <alice@example.com>
 - ボブさん <bob@example.com>
 - キャロルさん <carol@example.com>
-- マロリーさん <marolly@example.com>
-
+- マチルダさん <matilda@example.com>
 
